@@ -1,0 +1,9 @@
+{
+  "name": "hydra-e2e-test",
+  "version": "1.0.0",
+  "scripts": {
+    "preinstall": "echo HYDRA_SENTINEL_E2E_APPROVAL_TEST",
+    "build": "echo build-ok",
+    "test": "echo test-ok"
+  }
+}
